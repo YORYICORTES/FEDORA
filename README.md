@@ -20,43 +20,44 @@ Le damos o selecionamos crear un disco duro virtual ahora.. Damos crear
 
 ![img](imagen_fedora/imag4.jpeg)
 
-qq
+selecionamos VDI(Vritualbox Disk image) damos clic a siguente o next.
 
 ![img](imagen_fedora/imag5.jpeg)
 
-aaaa
+realizamos un (reservado dinamicamente), damos clic en siguiente o next.
 
 ![img](imagen_fedora/imag6.jpeg)
 
-ssssss
+Le asignamos tamaño de disco duro el que queramos o el recomendado por la maquina,
+y damos crear y listo 
 
 ![img](imagen_fedora/imag7.jpeg)
 
-ddddd
+Damos clic, en el boton (inicio) de virtualbox.  
 
 ![img](imagen_fedora/imag8.jpeg)
 
-fffff
+auntomaticamente arranca la insalacion de fedora, y esperamos a que termine...
 
 ![img](imagen_fedora/imag9.jpeg)
 
-gggg
+Listo tenemos maquina fedora, encendida y corriendo normal mente.
 
 ![img](imagen_fedora/imag9.1.jpeg)
 
-hhhhh
+Empeamos configuracion y particion de los discos selecionando o dando clic en (instalacion to hard drive).
 
 ![img](imagen_fedora/imag9.2.jpeg)
 
-jjjj
+selecionamos o damos clic en sistema (destino de la instalacion), teniendo en cuenta las letras rojas que estan abajito.
 
 ![img](imagen_fedora/imag9.3.jpeg)
 
-wwwww
+damos clic en el primer disco o de mayor tamaño hasta que aparesca selecionada por un chulito hacia arriba, y damos en Hecho.
 
 ![img](imagen_fedora/imag9.4.jpeg)
 
-ddddddd
+a
 
 ![img](imagen_fedora/imag9.5.jpeg)
 
